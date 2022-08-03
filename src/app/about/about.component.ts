@@ -8,9 +8,9 @@ import { Component, OnInit } from '@angular/core';
 export class AboutComponent implements OnInit {
 
   constructor() { }
-  title: string = "Olá, meu nome é Braian ";
-  paragraph: string = "Sou formado em Tecnologia em Análise e Desenvolvimento de Sistemas pela "+
-   "faculdade Anhanguera de Sorocaba, meu objetivo é me tornar desenvolvedor full-stack.";
+  title: string = "Gonzalo Alvarez";
+  paragraph: string = "Ingeniero y Doctor en Ingeniería. Coordinador y Desarrollador de Proyectos en diversas ramas de la ingeniería: procesos, productos, optimización, programación en varios lenguajes "+
+   "//  Engineer and Doctor in Engineering. Coordinator and Developer of projects in various branches of engineering: processes, products, optimization, programming in several languages.";
 
   ngOnInit() {}
 
