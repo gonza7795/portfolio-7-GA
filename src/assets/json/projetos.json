@@ -1,100 +1,78 @@
 [
     {
-        "title": "MangasTech",
-        "paragraph": "Projeto para organizar mangas e ler seus mangas preferidos",
+        "title": "Scientistic papers",
+        "paragraph": "Scientific papers published in several Journals/Trabajos científicos publicados en diversos Journals",
         "tools": [
             {
-                "title": "Spring Boot"
+                "title": "Elsevier"
             },
             {
-                "title": "AngularJS"
+                "title": "IEEE"
             },
             {
-                "title": "MySql"
+                "title": "Nature"
             },
             {
-                "title": "BootStrap"
+                "title": "Other Journals"
             }
         ],
-        "img": "./assets/img/mangasTech.png",
+        "img": "./assets/img/scientistic.gif",
         "github": "https://github.com/BraianS/MangasTech"
     },
+
+
     {
-        "title": "Ang Rss Reader",
-        "paragraph": "Simples Rss Reader criado com Angular 8",
+        "title":"Full Stack Web Developer",
+        "paragraph":"Build your own Blog Angular and Spring Boot/ Crea tu página con Angular y Spring Boot",
         "tools": [
             {
-                "title": "Angular 8"
-            },
-            {
-                "title": "Bulma"
-            },
-            {
-                "title": "Font Awesome 5"
-            },
-            {
-                "title": "SCSS"
-            }
-        ],
-        "img": "./assets/img/ang-rss-reader.png",
-        "github": "https://github.com/BraianS/ang-rss-reader"
-    },
-    {
-        "title": "KanbanSpring",
-        "paragraph": "Full Stack Kanban App to create your account and organize your cards.",
-        "tools": [
-            {
-                "title": "Angular 9"
-            },
-            {
-                "title": "Angular Material"
-            },
-            {
-                "title": "MongoDB"
-            },
-            {
-                "title": "SCSS"
-            },
-            {
-                "title": "Spring Boot"
-            },
-            {
-                "title": "Spring Security"
-            },
-            {
-                "title": "JWT"
-            }
-        ],
-        "img": "./assets/img/kanbanSpring.gif",
-        "github": "https://github.com/BraianS/spring-security-angular-kanban-app"
-    },
-    {
-        "title":"Full Stack Spring Blog and Angular Blog",
-        "paragraph":"Build your own Blog with Spring Boot and Angular project",
-        "tools": [
-            {
-                "title":"Spring Boot 2.5.2"
+                "title":"Spring Boot"
             },
             {
                 "title":"Mysql"
             },
+       
             {
-                "title":"jjwt"
+                "title":"Angular"
+            },
+       
+        
+       
+            {
+                "title":"TS"
             },
             {
-                "title":"Angular 12"
-            },
-            {
-                "title":"Bulma"
-            },
-            {
-                "title":"Font-Awesome Free"
-            },
-            {
-                "title":"Docker"
+                "title":"Java"
             }
         ],
-        "img":"./assets/img/full-stack-spring-blog-and-angular-blog.jpg",
-        "github": "https://github.com/BraianS/fullstack-spring-boot-and-angular"
+        "img":"./assets/img/fulls stack.gif",
+        "github": "https://portfolio-gea.web.app/"
+    },
+    
+    {
+        "title": "Other Works/Otros Trabajos",
+        "paragraph": "Works, books, and chapters / Trabajos, libros y capítulos",
+        "tools": [
+            {
+                "title": "Congresses"
+            },
+            {
+                "title": "Symposiums"
+            },
+            {
+                "title": "Engineering Books"
+            }
+        ],
+        "img": "./assets/img/books.gif",
+        "github": "https://github.com/BraianS/ang-rss-reader"
     }
+    
+
+
+   
+
+
+
+
+
 ]
