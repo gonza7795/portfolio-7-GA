@@ -4,7 +4,7 @@
 .about {
   height: 100vh;
   @include flex-container(row);
-  background-color: $blue;
+  background-color: #316bb3;
 
   &__details {
     flex-basis: 50%;

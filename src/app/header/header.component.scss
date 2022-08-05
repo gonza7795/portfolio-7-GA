@@ -16,7 +16,7 @@ header {
   position: fixed;
   top: 2.5em;
   right: 2.5em;
-  color: $gray21;
+  color: $white;
   cursor: pointer;
   z-index: 1000;
 }
@@ -53,7 +53,7 @@ header {
       display: block;
       width: 0;
       height: 2px;
-      background: $gray21;
+      background: $white;
       transition: width 0.3s;
     }
 
@@ -64,10 +64,10 @@ header {
   }
 
   &--sticky {
-    background: $blue;
+    background: #316bb3;
     box-shadow: 0 3px 12px 0 $box-shadow;
     top: 0;
-    color: $gray21;
+    color: $white;
     padding: 5px;
     transition: 0.5s;
   }
@@ -91,6 +91,6 @@ header {
     display: flex;
     transform: scale(1);
     opacity: 1;
-    background-color: $blue-dark;
+    background-color: #316bb3;
   }
 }

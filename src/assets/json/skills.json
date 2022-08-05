@@ -1,22 +1,34 @@
 [
     {
-        "title":"Java",
-        "icon" :"fab fa-4x fa-java"
+        "title":"JavaScript",
+        "icon" :"fab fa-4x  fa-js"
     },
-    {
-        "title":"Git",
-        "icon" :"fab fa-4x fa-git"
-    },
+ 
     {
         "title":"Git Hub",
         "icon" :"fab fa-4x fa-github-alt"
     },
+
+    {
+        "title":"GAMS",
+        "icon" :"fa fa-indent fa-4x"
+    },
+
+    
+
+    {
+        "title":"HTML",
+        "icon" :"fab fa-4x fa-html5"
+    },
+
+
+
     {
         "title":"CSS3 e SCSS",
         "icon" :"fab fa-4x fa-css3-alt"
     },
     {
-        "title":"Angular 12",
+        "title":"Angular",
         "icon" :"fab fa-4x fa-angular"
     },
     {
@@ -24,16 +36,15 @@
         "icon" :"fas fa-4x fa-power-off"
     },
     {
-        "title":"MySql",
+        "title":"MySQl",
         "icon" :"fas fa-4x fa-database"
     },
+
     {
-        "title":"MongoDb",
-        "icon" :"fas fa-4x fa-database"
-    },
-    {
-        "title":"RestFull Api",
-        "icon" :"fas fa-4x fa-ellipsis-h"
+        "title":"TypeScript",
+        "icon" :"fas fa-text-height fa-4x"
     }
+
+   
 
 ]
