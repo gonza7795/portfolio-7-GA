@@ -4,7 +4,7 @@
 .contato {
   @include flex-container(column);
   padding: 50px;
-  background-color:  #316bb3;
+  background-color: #316bb3;
   color: $white;
 
   &__title {

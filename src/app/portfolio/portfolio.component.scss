@@ -4,7 +4,7 @@
 .portfolio {
   @include flex-container(column);
   padding: 3rem 0 3rem 0;
-  background-color: $blue-light;
+  background-color:  #abb5b9;
 
   &__heading {
     align-self: center;
