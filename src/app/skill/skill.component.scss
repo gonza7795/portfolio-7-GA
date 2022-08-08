@@ -22,6 +22,12 @@
     color: $gray21;
     font-size: $paragraph;
   }
+
+  &_title_gea {
+    font-size: $font-size-h2;
+    text-transform: capitalize;
+    color: $gray21;
+  }
 }
 
 .list {
