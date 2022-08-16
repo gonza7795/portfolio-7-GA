@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "gonzaloalvarez-portfolio"
-  }
+    "default": "porfolio-gea",
+    "pgea": "porfolio-gea",
+    "gea1": "gonzaloalvarez-portfolio"
+  },
+  "targets": {},
+  "etags": {}
 }
